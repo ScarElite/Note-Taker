@@ -13,7 +13,7 @@ router.get("/notes/:id", (req, res) => {
   if (result) {
     res.json(result);
   } else {
-    res.send(404);
+    res.send(404).send("Sorry, can't find that!");
   }
 });
 

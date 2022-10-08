@@ -1,6 +1,24 @@
-[
+{
+  "notes": [
     {
-        "title":"Test Title",
-        "text":"Test text"
+      "title": "Test Title",
+      "text": "Test text",
+      "id": "001"
+    },
+    {
+      "title": "Finish Assignment",
+      "text": "Finish the module 11 assignment",
+      "id": "93d88030-9979-41cb-a684-a06ae61a404e"
+    },
+    {
+      "title": "Module 12",
+      "text": "Start module 12 and complete the lessons before the 1st class",
+      "id": "c1606074-0b64-4dd6-85f8-5fb82b2f0998"
+    },
+    {
+      "title": "TypeScript",
+      "text": "Start learning TypeScript",
+      "id": "453c0a61-767e-425e-a9e6-dbe1cf8c82a7"
     }
-]
+  ]
+}
