@@ -2,7 +2,7 @@
 const express = require("express");
 const app = express();
 
-// Creates the localhost port
+// Creates the localhost port using the required port if there is one and if not then it will use port 3001
 const PORT = process.env.PORT || 3001;
 
 // Modularized routes
